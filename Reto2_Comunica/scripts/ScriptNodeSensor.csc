@@ -31,7 +31,7 @@ delay 1000
 
 areadsensor tempSen
 rdata tempSen SensTipo idSens temp
-print temp
+
 if( temp>30)
    data mens "alerta" lonSen latSen
    send mens ant
@@ -52,4 +52,3 @@ if(bat<1)
    data mens "stopBat" lonSen latSen bat
    send mens ant
 end
-

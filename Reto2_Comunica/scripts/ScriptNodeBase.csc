@@ -34,4 +34,4 @@ if(tipo == "stopBat")
 	stop
 end
 
-wait 10
+wait 100
