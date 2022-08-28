@@ -1,0 +1,2125 @@
+===========================
+Initialization
+======================================================
+START SIMULATION
+======================================================
+
+----------------------------------------------------------------------------
+Time : 0.0
+Min (milliseconds) : 0.0
+S9 SET ant=999
+S9 SET ite=0
+S9 BATTERY SET100.
+S9 ATGET ID.
+S30 SET ant=999
+S30 SET ite=0
+S30 BATTERY SET100.
+S30 ATGET ID.
+S31 SET ant=999
+S31 SET ite=0
+S31 BATTERY SET100.
+S31 ATGET ID.
+S36 SET ant=999
+S36 SET ite=0
+S36 BATTERY SET100.
+S36 ATGET ID.
+S1 ATGET ID.
+S13 SET ant=999
+S13 SET ite=0
+S13 BATTERY SET100.
+S13 ATGET ID.
+S25 SET ant=999
+S25 SET ite=0
+S25 BATTERY SET100.
+S25 ATGET ID.
+S22 SET ant=999
+S22 SET ite=0
+S22 BATTERY SET100.
+S22 ATGET ID.
+S23 SET ant=999
+S23 SET ite=0
+S23 BATTERY SET100.
+S23 ATGET ID.
+S24 SET ant=999
+S24 SET ite=0
+S24 BATTERY SET100.
+S24 ATGET ID.
+S3 SET ant=999
+S3 SET ite=0
+S3 BATTERY SET100.
+S3 ATGET ID.
+S33 SET ant=999
+S33 SET ite=0
+S33 BATTERY SET100.
+S33 ATGET ID.
+S34 SET ant=999
+S34 SET ite=0
+S34 BATTERY SET100.
+S34 ATGET ID.
+S35 SET ant=999
+S35 SET ite=0
+S35 BATTERY SET100.
+S35 ATGET ID.
+S32 SET ant=999
+S32 SET ite=0
+S32 BATTERY SET100.
+S32 ATGET ID.
+S28 SET ant=999
+S28 SET ite=0
+S28 BATTERY SET100.
+S28 ATGET ID.
+S21 SET ant=999
+S21 SET ite=0
+S21 BATTERY SET100.
+S21 ATGET ID.
+S26 SET ant=999
+S26 SET ite=0
+S26 BATTERY SET100.
+S26 ATGET ID.
+S19 SET ant=999
+S19 SET ite=0
+S19 BATTERY SET100.
+S19 ATGET ID.
+S27 SET ant=999
+S27 SET ite=0
+S27 BATTERY SET100.
+S27 ATGET ID.
+S20 SET ant=999
+S20 SET ite=0
+S20 BATTERY SET100.
+S20 ATGET ID.
+S29 SET ant=999
+S29 SET ite=0
+S29 BATTERY SET100.
+S29 ATGET ID.
+S11 SET ant=999
+S11 SET ite=0
+S11 BATTERY SET100.
+S11 ATGET ID.
+
+----------------------------------------------------------------------------
+Time : 0.0033333333333333335
+Min (milliseconds) : 0.0033333333333333335
+S9 GET POSITION2.
+S9 Starts the loop section.
+S9 is waiting for data ...
+S30 GET POSITION2.
+S30 Starts the loop section.
+S30 is waiting for data ...
+S31 GET POSITION2.
+S31 Starts the loop section.
+S31 is waiting for data ...
+S36 GET POSITION2.
+S36 Starts the loop section.
+S36 is waiting for data ...
+S1 SET meng=0
+S1 DATA Creation:hola#1#1
+S1 is writing the message : "hola#1#1" in its buffer.
+S13 GET POSITION2.
+S13 Starts the loop section.
+S13 is waiting for data ...
+S25 GET POSITION2.
+S25 Starts the loop section.
+S25 is waiting for data ...
+S22 GET POSITION2.
+S22 Starts the loop section.
+S22 is waiting for data ...
+S23 GET POSITION2.
+S23 Starts the loop section.
+S23 is waiting for data ...
+S24 GET POSITION2.
+S24 Starts the loop section.
+S24 is waiting for data ...
+S3 GET POSITION2.
+S3 Starts the loop section.
+S3 is waiting for data ...
+S33 GET POSITION2.
+S33 Starts the loop section.
+S33 is waiting for data ...
+S34 GET POSITION2.
+S34 Starts the loop section.
+S34 is waiting for data ...
+S35 GET POSITION2.
+S35 Starts the loop section.
+S35 is waiting for data ...
+S32 GET POSITION2.
+S32 Starts the loop section.
+S32 is waiting for data ...
+S28 GET POSITION2.
+S28 Starts the loop section.
+S28 is waiting for data ...
+S21 GET POSITION2.
+S21 Starts the loop section.
+S21 is waiting for data ...
+S26 GET POSITION2.
+S26 Starts the loop section.
+S26 is waiting for data ...
+S19 GET POSITION2.
+S19 Starts the loop section.
+S19 is waiting for data ...
+S27 GET POSITION2.
+S27 Starts the loop section.
+S27 is waiting for data ...
+S20 GET POSITION2.
+S20 Starts the loop section.
+S20 is waiting for data ...
+S29 GET POSITION2.
+S29 Starts the loop section.
+S29 is waiting for data ...
+S11 GET POSITION2.
+S11 Starts the loop section.
+S11 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.0033333333333333335
+Min (milliseconds) : 6.4E-20
+S1 is listening to the channel
+S1 the channel is free.
+S1 starts sending the message : "hola#1#1".
+S1 has finished sending in a broadcast the message : "hola#1#1" to the nodes: 
+S30 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S31 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S36 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S13 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S22 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S23 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S24 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S33 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S34 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S35 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S32 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S28 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S21 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S19 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S27 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S20 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S29 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S11 (radio: radio3) is receiving the message : "hola#1#1" in its buffer.
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.013333333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.018192
+Min (milliseconds) : 0.004858666666666666
+S30 Buffer available, exit waiting.
+S30 READ
+S30 is reading from its buffer "hola#1#1" and puts it in mens
+S30 Read DATA: hola#1#1
+S30 CPRINT [cprint, "Nodo sensor", tipo]
+S30 SET ant=valor
+S30 DATA Creation:hola#30
+S30 is writing the message : "hola#30" in its buffer.
+S31 Buffer available, exit waiting.
+S31 READ
+S31 is reading from its buffer "hola#1#1" and puts it in mens
+S31 Read DATA: hola#1#1
+S31 CPRINT [cprint, "Nodo sensor", tipo]
+S31 SET ant=valor
+S31 DATA Creation:hola#31
+S31 is writing the message : "hola#31" in its buffer.
+S36 Buffer available, exit waiting.
+S36 READ
+S36 is reading from its buffer "hola#1#1" and puts it in mens
+S36 Read DATA: hola#1#1
+S36 CPRINT [cprint, "Nodo sensor", tipo]
+S36 SET ant=valor
+S36 DATA Creation:hola#36
+S36 is writing the message : "hola#36" in its buffer.
+S13 Buffer available, exit waiting.
+S13 READ
+S13 is reading from its buffer "hola#1#1" and puts it in mens
+S13 Read DATA: hola#1#1
+S13 CPRINT [cprint, "Nodo sensor", tipo]
+S13 SET ant=valor
+S13 DATA Creation:hola#13
+S13 is writing the message : "hola#13" in its buffer.
+S22 Buffer available, exit waiting.
+S22 READ
+S22 is reading from its buffer "hola#1#1" and puts it in mens
+S22 Read DATA: hola#1#1
+S22 CPRINT [cprint, "Nodo sensor", tipo]
+S22 SET ant=valor
+S22 DATA Creation:hola#22
+S22 is writing the message : "hola#22" in its buffer.
+S23 Buffer available, exit waiting.
+S23 READ
+S23 is reading from its buffer "hola#1#1" and puts it in mens
+S23 Read DATA: hola#1#1
+S23 CPRINT [cprint, "Nodo sensor", tipo]
+S23 SET ant=valor
+S23 DATA Creation:hola#23
+S23 is writing the message : "hola#23" in its buffer.
+S24 Buffer available, exit waiting.
+S24 READ
+S24 is reading from its buffer "hola#1#1" and puts it in mens
+S24 Read DATA: hola#1#1
+S24 CPRINT [cprint, "Nodo sensor", tipo]
+S24 SET ant=valor
+S24 DATA Creation:hola#24
+S24 is writing the message : "hola#24" in its buffer.
+S33 Buffer available, exit waiting.
+S33 READ
+S33 is reading from its buffer "hola#1#1" and puts it in mens
+S33 Read DATA: hola#1#1
+S33 CPRINT [cprint, "Nodo sensor", tipo]
+S33 SET ant=valor
+S33 DATA Creation:hola#33
+S33 is writing the message : "hola#33" in its buffer.
+S34 Buffer available, exit waiting.
+S34 READ
+S34 is reading from its buffer "hola#1#1" and puts it in mens
+S34 Read DATA: hola#1#1
+S34 CPRINT [cprint, "Nodo sensor", tipo]
+S34 SET ant=valor
+S34 DATA Creation:hola#34
+S34 is writing the message : "hola#34" in its buffer.
+S35 Buffer available, exit waiting.
+S35 READ
+S35 is reading from its buffer "hola#1#1" and puts it in mens
+S35 Read DATA: hola#1#1
+S35 CPRINT [cprint, "Nodo sensor", tipo]
+S35 SET ant=valor
+S35 DATA Creation:hola#35
+S35 is writing the message : "hola#35" in its buffer.
+S32 Buffer available, exit waiting.
+S32 READ
+S32 is reading from its buffer "hola#1#1" and puts it in mens
+S32 Read DATA: hola#1#1
+S32 CPRINT [cprint, "Nodo sensor", tipo]
+S32 SET ant=valor
+S32 DATA Creation:hola#32
+S32 is writing the message : "hola#32" in its buffer.
+S28 Buffer available, exit waiting.
+S28 READ
+S28 is reading from its buffer "hola#1#1" and puts it in mens
+S28 Read DATA: hola#1#1
+S28 CPRINT [cprint, "Nodo sensor", tipo]
+S28 SET ant=valor
+S28 DATA Creation:hola#28
+S28 is writing the message : "hola#28" in its buffer.
+S21 Buffer available, exit waiting.
+S21 READ
+S21 is reading from its buffer "hola#1#1" and puts it in mens
+S21 Read DATA: hola#1#1
+S21 CPRINT [cprint, "Nodo sensor", tipo]
+S21 SET ant=valor
+S21 DATA Creation:hola#21
+S21 is writing the message : "hola#21" in its buffer.
+S19 Buffer available, exit waiting.
+S19 READ
+S19 is reading from its buffer "hola#1#1" and puts it in mens
+S19 Read DATA: hola#1#1
+S19 CPRINT [cprint, "Nodo sensor", tipo]
+S19 SET ant=valor
+S19 DATA Creation:hola#19
+S19 is writing the message : "hola#19" in its buffer.
+S27 Buffer available, exit waiting.
+S27 READ
+S27 is reading from its buffer "hola#1#1" and puts it in mens
+S27 Read DATA: hola#1#1
+S27 CPRINT [cprint, "Nodo sensor", tipo]
+S27 SET ant=valor
+S27 DATA Creation:hola#27
+S27 is writing the message : "hola#27" in its buffer.
+S20 Buffer available, exit waiting.
+S20 READ
+S20 is reading from its buffer "hola#1#1" and puts it in mens
+S20 Read DATA: hola#1#1
+S20 CPRINT [cprint, "Nodo sensor", tipo]
+S20 SET ant=valor
+S20 DATA Creation:hola#20
+S20 is writing the message : "hola#20" in its buffer.
+S29 Buffer available, exit waiting.
+S29 READ
+S29 is reading from its buffer "hola#1#1" and puts it in mens
+S29 Read DATA: hola#1#1
+S29 CPRINT [cprint, "Nodo sensor", tipo]
+S29 SET ant=valor
+S29 DATA Creation:hola#29
+S29 is writing the message : "hola#29" in its buffer.
+S11 Buffer available, exit waiting.
+S11 READ
+S11 is reading from its buffer "hola#1#1" and puts it in mens
+S11 Read DATA: hola#1#1
+S11 CPRINT [cprint, "Nodo sensor", tipo]
+S11 SET ant=valor
+S11 DATA Creation:hola#11
+S11 is writing the message : "hola#11" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.018192
+Min (milliseconds) : 5.599999999999999E-20
+S30 is listening to the channel
+S30 the channel is free.
+S30 starts sending the message : "hola#30".
+S30 has finished sending in a broadcast the message : "hola#30" to the nodes: 
+S31 (radio: radio3) is receiving the message : "hola#30" in its buffer.
+S36 (radio: radio3) is receiving the message : "hola#30" in its buffer.
+S23 (radio: radio3) is receiving the message : "hola#30" in its buffer.
+S24 (radio: radio3) is receiving the message : "hola#30" in its buffer.
+S34 (radio: radio3) is receiving the message : "hola#30" in its buffer.
+S32 (radio: radio3) is receiving the message : "hola#30" in its buffer.
+S21 (radio: radio3) is receiving the message : "hola#30" in its buffer.
+S20 (radio: radio3) is receiving the message : "hola#30" in its buffer.
+S29 (radio: radio3) is receiving the message : "hola#30" in its buffer.
+S11 (radio: radio3) is receiving the message : "hola#30" in its buffer.
+S30 starts delaying for 1000.0 milliseconds
+S31 is listening to the channel
+S31 the channel is free.
+S31 starts sending the message : "hola#31".
+S31 has finished sending in a broadcast the message : "hola#31" to the nodes: 
+S30 (radio: radio3) is receiving the message : "hola#31" in its buffer.
+S36 (radio: radio3) is receiving the message : "hola#31" in its buffer.
+S23 (radio: radio3) is receiving the message : "hola#31" in its buffer.
+S24 (radio: radio3) is receiving the message : "hola#31" in its buffer.
+S33 (radio: radio3) is receiving the message : "hola#31" in its buffer.
+S34 (radio: radio3) is receiving the message : "hola#31" in its buffer.
+S32 (radio: radio3) is receiving the message : "hola#31" in its buffer.
+S28 (radio: radio3) is receiving the message : "hola#31" in its buffer.
+S21 (radio: radio3) is receiving the message : "hola#31" in its buffer.
+S20 (radio: radio3) is receiving the message : "hola#31" in its buffer.
+S29 (radio: radio3) is receiving the message : "hola#31" in its buffer.
+S11 (radio: radio3) is receiving the message : "hola#31" in its buffer.
+S31 starts delaying for 1000.0 milliseconds
+S36 is listening to the channel
+S36 the channel is free.
+S36 starts sending the message : "hola#36".
+S36 has finished sending in a broadcast the message : "hola#36" to the nodes: 
+S30 (radio: radio3) is receiving the message : "hola#36" in its buffer.
+S31 (radio: radio3) is receiving the message : "hola#36" in its buffer.
+S22 (radio: radio3) is receiving the message : "hola#36" in its buffer.
+S23 (radio: radio3) is receiving the message : "hola#36" in its buffer.
+S24 (radio: radio3) is receiving the message : "hola#36" in its buffer.
+S34 (radio: radio3) is receiving the message : "hola#36" in its buffer.
+S32 (radio: radio3) is receiving the message : "hola#36" in its buffer.
+S20 (radio: radio3) is receiving the message : "hola#36" in its buffer.
+S11 (radio: radio3) is receiving the message : "hola#36" in its buffer.
+S36 starts delaying for 1000.0 milliseconds
+S13 is listening to the channel
+S13 the channel is free.
+S13 starts sending the message : "hola#13".
+S13 has finished sending in a broadcast the message : "hola#13" to the nodes: 
+S9 (radio: radio3) is receiving the message : "hola#13" in its buffer.
+S3 (radio: radio3) is receiving the message : "hola#13" in its buffer.
+S33 (radio: radio3) is receiving the message : "hola#13" in its buffer.
+S35 (radio: radio3) is receiving the message : "hola#13" in its buffer.
+S28 (radio: radio3) is receiving the message : "hola#13" in its buffer.
+S21 (radio: radio3) is receiving the message : "hola#13" in its buffer.
+S26 (radio: radio3) is receiving the message : "hola#13" in its buffer.
+S19 (radio: radio3) is receiving the message : "hola#13" in its buffer.
+S27 (radio: radio3) is receiving the message : "hola#13" in its buffer.
+S29 (radio: radio3) is receiving the message : "hola#13" in its buffer.
+S13 starts delaying for 1000.0 milliseconds
+S22 is listening to the channel
+S22 the channel is free.
+S22 starts sending the message : "hola#22".
+S22 has finished sending in a broadcast the message : "hola#22" to the nodes: 
+S36 (radio: radio3) is receiving the message : "hola#22" in its buffer.
+S25 (radio: radio3) is receiving the message : "hola#22" in its buffer.
+S23 (radio: radio3) is receiving the message : "hola#22" in its buffer.
+S32 (radio: radio3) is receiving the message : "hola#22" in its buffer.
+S19 (radio: radio3) is receiving the message : "hola#22" in its buffer.
+S11 (radio: radio3) is receiving the message : "hola#22" in its buffer.
+S22 starts delaying for 1000.0 milliseconds
+S23 is listening to the channel
+S23 the channel is free.
+S23 starts sending the message : "hola#23".
+S23 has finished sending in a broadcast the message : "hola#23" to the nodes: 
+S30 (radio: radio3) is receiving the message : "hola#23" in its buffer.
+S31 (radio: radio3) is receiving the message : "hola#23" in its buffer.
+S36 (radio: radio3) is receiving the message : "hola#23" in its buffer.
+S22 (radio: radio3) is receiving the message : "hola#23" in its buffer.
+S24 (radio: radio3) is receiving the message : "hola#23" in its buffer.
+S32 (radio: radio3) is receiving the message : "hola#23" in its buffer.
+S19 (radio: radio3) is receiving the message : "hola#23" in its buffer.
+S20 (radio: radio3) is receiving the message : "hola#23" in its buffer.
+S11 (radio: radio3) is receiving the message : "hola#23" in its buffer.
+S23 starts delaying for 1000.0 milliseconds
+S24 is listening to the channel
+S24 the channel is free.
+S24 starts sending the message : "hola#24".
+S24 has finished sending in a broadcast the message : "hola#24" to the nodes: 
+S30 (radio: radio3) is receiving the message : "hola#24" in its buffer.
+S31 (radio: radio3) is receiving the message : "hola#24" in its buffer.
+S36 (radio: radio3) is receiving the message : "hola#24" in its buffer.
+S23 (radio: radio3) is receiving the message : "hola#24" in its buffer.
+S34 (radio: radio3) is receiving the message : "hola#24" in its buffer.
+S32 (radio: radio3) is receiving the message : "hola#24" in its buffer.
+S20 (radio: radio3) is receiving the message : "hola#24" in its buffer.
+S29 (radio: radio3) is receiving the message : "hola#24" in its buffer.
+S11 (radio: radio3) is receiving the message : "hola#24" in its buffer.
+S24 starts delaying for 1000.0 milliseconds
+S33 is listening to the channel
+S33 the channel is free.
+S33 starts sending the message : "hola#33".
+S33 has finished sending in a broadcast the message : "hola#33" to the nodes: 
+S9 (radio: radio3) is receiving the message : "hola#33" in its buffer.
+S31 (radio: radio3) is receiving the message : "hola#33" in its buffer.
+S13 (radio: radio3) is receiving the message : "hola#33" in its buffer.
+S3 (radio: radio3) is receiving the message : "hola#33" in its buffer.
+S34 (radio: radio3) is receiving the message : "hola#33" in its buffer.
+S35 (radio: radio3) is receiving the message : "hola#33" in its buffer.
+S28 (radio: radio3) is receiving the message : "hola#33" in its buffer.
+S21 (radio: radio3) is receiving the message : "hola#33" in its buffer.
+S19 (radio: radio3) is receiving the message : "hola#33" in its buffer.
+S27 (radio: radio3) is receiving the message : "hola#33" in its buffer.
+S29 (radio: radio3) is receiving the message : "hola#33" in its buffer.
+S33 starts delaying for 1000.0 milliseconds
+S34 is listening to the channel
+S34 the channel is free.
+S34 starts sending the message : "hola#34".
+S34 has finished sending in a broadcast the message : "hola#34" to the nodes: 
+S30 (radio: radio3) is receiving the message : "hola#34" in its buffer.
+S31 (radio: radio3) is receiving the message : "hola#34" in its buffer.
+S36 (radio: radio3) is receiving the message : "hola#34" in its buffer.
+S24 (radio: radio3) is receiving the message : "hola#34" in its buffer.
+S33 (radio: radio3) is receiving the message : "hola#34" in its buffer.
+S28 (radio: radio3) is receiving the message : "hola#34" in its buffer.
+S21 (radio: radio3) is receiving the message : "hola#34" in its buffer.
+S20 (radio: radio3) is receiving the message : "hola#34" in its buffer.
+S29 (radio: radio3) is receiving the message : "hola#34" in its buffer.
+S34 starts delaying for 1000.0 milliseconds
+S35 is listening to the channel
+S35 the channel is free.
+S35 starts sending the message : "hola#35".
+S35 has finished sending in a broadcast the message : "hola#35" to the nodes: 
+S9 (radio: radio3) is receiving the message : "hola#35" in its buffer.
+S13 (radio: radio3) is receiving the message : "hola#35" in its buffer.
+S25 (radio: radio3) is receiving the message : "hola#35" in its buffer.
+S3 (radio: radio3) is receiving the message : "hola#35" in its buffer.
+S33 (radio: radio3) is receiving the message : "hola#35" in its buffer.
+S32 (radio: radio3) is receiving the message : "hola#35" in its buffer.
+S28 (radio: radio3) is receiving the message : "hola#35" in its buffer.
+S21 (radio: radio3) is receiving the message : "hola#35" in its buffer.
+S26 (radio: radio3) is receiving the message : "hola#35" in its buffer.
+S19 (radio: radio3) is receiving the message : "hola#35" in its buffer.
+S27 (radio: radio3) is receiving the message : "hola#35" in its buffer.
+S35 starts delaying for 1000.0 milliseconds
+S32 is listening to the channel
+S32 the channel is free.
+S32 starts sending the message : "hola#32".
+S32 has finished sending in a broadcast the message : "hola#32" to the nodes: 
+S30 (radio: radio3) is receiving the message : "hola#32" in its buffer.
+S31 (radio: radio3) is receiving the message : "hola#32" in its buffer.
+S36 (radio: radio3) is receiving the message : "hola#32" in its buffer.
+S25 (radio: radio3) is receiving the message : "hola#32" in its buffer.
+S22 (radio: radio3) is receiving the message : "hola#32" in its buffer.
+S23 (radio: radio3) is receiving the message : "hola#32" in its buffer.
+S24 (radio: radio3) is receiving the message : "hola#32" in its buffer.
+S35 (radio: radio3) is receiving the message : "hola#32" in its buffer.
+S19 (radio: radio3) is receiving the message : "hola#32" in its buffer.
+S27 (radio: radio3) is receiving the message : "hola#32" in its buffer.
+S29 (radio: radio3) is receiving the message : "hola#32" in its buffer.
+S11 (radio: radio3) is receiving the message : "hola#32" in its buffer.
+S32 starts delaying for 1000.0 milliseconds
+S28 is listening to the channel
+S28 the channel is free.
+S28 starts sending the message : "hola#28".
+S28 has finished sending in a broadcast the message : "hola#28" to the nodes: 
+S9 (radio: radio3) is receiving the message : "hola#28" in its buffer.
+S31 (radio: radio3) is receiving the message : "hola#28" in its buffer.
+S13 (radio: radio3) is receiving the message : "hola#28" in its buffer.
+S3 (radio: radio3) is receiving the message : "hola#28" in its buffer.
+S33 (radio: radio3) is receiving the message : "hola#28" in its buffer.
+S34 (radio: radio3) is receiving the message : "hola#28" in its buffer.
+S35 (radio: radio3) is receiving the message : "hola#28" in its buffer.
+S21 (radio: radio3) is receiving the message : "hola#28" in its buffer.
+S27 (radio: radio3) is receiving the message : "hola#28" in its buffer.
+S29 (radio: radio3) is receiving the message : "hola#28" in its buffer.
+S28 starts delaying for 1000.0 milliseconds
+S21 is listening to the channel
+S21 the channel is free.
+S21 starts sending the message : "hola#21".
+S21 has finished sending in a broadcast the message : "hola#21" to the nodes: 
+S9 (radio: radio3) is receiving the message : "hola#21" in its buffer.
+S30 (radio: radio3) is receiving the message : "hola#21" in its buffer.
+S31 (radio: radio3) is receiving the message : "hola#21" in its buffer.
+S13 (radio: radio3) is receiving the message : "hola#21" in its buffer.
+S3 (radio: radio3) is receiving the message : "hola#21" in its buffer.
+S33 (radio: radio3) is receiving the message : "hola#21" in its buffer.
+S34 (radio: radio3) is receiving the message : "hola#21" in its buffer.
+S35 (radio: radio3) is receiving the message : "hola#21" in its buffer.
+S28 (radio: radio3) is receiving the message : "hola#21" in its buffer.
+S19 (radio: radio3) is receiving the message : "hola#21" in its buffer.
+S27 (radio: radio3) is receiving the message : "hola#21" in its buffer.
+S29 (radio: radio3) is receiving the message : "hola#21" in its buffer.
+S21 starts delaying for 1000.0 milliseconds
+S19 is listening to the channel
+S19 the channel is free.
+S19 starts sending the message : "hola#19".
+S19 has finished sending in a broadcast the message : "hola#19" to the nodes: 
+S13 (radio: radio3) is receiving the message : "hola#19" in its buffer.
+S25 (radio: radio3) is receiving the message : "hola#19" in its buffer.
+S22 (radio: radio3) is receiving the message : "hola#19" in its buffer.
+S23 (radio: radio3) is receiving the message : "hola#19" in its buffer.
+S3 (radio: radio3) is receiving the message : "hola#19" in its buffer.
+S33 (radio: radio3) is receiving the message : "hola#19" in its buffer.
+S35 (radio: radio3) is receiving the message : "hola#19" in its buffer.
+S32 (radio: radio3) is receiving the message : "hola#19" in its buffer.
+S21 (radio: radio3) is receiving the message : "hola#19" in its buffer.
+S26 (radio: radio3) is receiving the message : "hola#19" in its buffer.
+S27 (radio: radio3) is receiving the message : "hola#19" in its buffer.
+S29 (radio: radio3) is receiving the message : "hola#19" in its buffer.
+S19 starts delaying for 1000.0 milliseconds
+S27 is listening to the channel
+S27 the channel is free.
+S27 starts sending the message : "hola#27".
+S27 has finished sending in a broadcast the message : "hola#27" to the nodes: 
+S9 (radio: radio3) is receiving the message : "hola#27" in its buffer.
+S13 (radio: radio3) is receiving the message : "hola#27" in its buffer.
+S25 (radio: radio3) is receiving the message : "hola#27" in its buffer.
+S3 (radio: radio3) is receiving the message : "hola#27" in its buffer.
+S33 (radio: radio3) is receiving the message : "hola#27" in its buffer.
+S35 (radio: radio3) is receiving the message : "hola#27" in its buffer.
+S32 (radio: radio3) is receiving the message : "hola#27" in its buffer.
+S28 (radio: radio3) is receiving the message : "hola#27" in its buffer.
+S21 (radio: radio3) is receiving the message : "hola#27" in its buffer.
+S26 (radio: radio3) is receiving the message : "hola#27" in its buffer.
+S19 (radio: radio3) is receiving the message : "hola#27" in its buffer.
+S29 (radio: radio3) is receiving the message : "hola#27" in its buffer.
+S27 starts delaying for 1000.0 milliseconds
+S20 is listening to the channel
+S20 the channel is free.
+S20 starts sending the message : "hola#20".
+S20 has finished sending in a broadcast the message : "hola#20" to the nodes: 
+S30 (radio: radio3) is receiving the message : "hola#20" in its buffer.
+S31 (radio: radio3) is receiving the message : "hola#20" in its buffer.
+S36 (radio: radio3) is receiving the message : "hola#20" in its buffer.
+S23 (radio: radio3) is receiving the message : "hola#20" in its buffer.
+S24 (radio: radio3) is receiving the message : "hola#20" in its buffer.
+S34 (radio: radio3) is receiving the message : "hola#20" in its buffer.
+S11 (radio: radio3) is receiving the message : "hola#20" in its buffer.
+S20 starts delaying for 1000.0 milliseconds
+S29 is listening to the channel
+S29 the channel is free.
+S29 starts sending the message : "hola#29".
+S29 has finished sending in a broadcast the message : "hola#29" to the nodes: 
+S9 (radio: radio3) is receiving the message : "hola#29" in its buffer.
+S30 (radio: radio3) is receiving the message : "hola#29" in its buffer.
+S31 (radio: radio3) is receiving the message : "hola#29" in its buffer.
+S13 (radio: radio3) is receiving the message : "hola#29" in its buffer.
+S24 (radio: radio3) is receiving the message : "hola#29" in its buffer.
+S33 (radio: radio3) is receiving the message : "hola#29" in its buffer.
+S34 (radio: radio3) is receiving the message : "hola#29" in its buffer.
+S32 (radio: radio3) is receiving the message : "hola#29" in its buffer.
+S28 (radio: radio3) is receiving the message : "hola#29" in its buffer.
+S21 (radio: radio3) is receiving the message : "hola#29" in its buffer.
+S19 (radio: radio3) is receiving the message : "hola#29" in its buffer.
+S27 (radio: radio3) is receiving the message : "hola#29" in its buffer.
+S29 starts delaying for 1000.0 milliseconds
+S11 is listening to the channel
+S11 the channel is free.
+S11 starts sending the message : "hola#11".
+S11 has finished sending in a broadcast the message : "hola#11" to the nodes: 
+S30 (radio: radio3) is receiving the message : "hola#11" in its buffer.
+S31 (radio: radio3) is receiving the message : "hola#11" in its buffer.
+S36 (radio: radio3) is receiving the message : "hola#11" in its buffer.
+S22 (radio: radio3) is receiving the message : "hola#11" in its buffer.
+S23 (radio: radio3) is receiving the message : "hola#11" in its buffer.
+S24 (radio: radio3) is receiving the message : "hola#11" in its buffer.
+S32 (radio: radio3) is receiving the message : "hola#11" in its buffer.
+S20 (radio: radio3) is receiving the message : "hola#11" in its buffer.
+S11 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.023333333333333334
+Min (milliseconds) : 0.0051413333333333346
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.032217333333333334
+Min (milliseconds) : 0.008884
+S9 Buffer available, exit waiting.
+S9 READ
+S9 is reading from its buffer "hola#13" and puts it in mens
+S9 Read DATA: hola#13
+S9 CPRINT [cprint, "Nodo sensor", tipo]
+S9 SET ant=valor
+S9 DATA Creation:hola#9
+S9 is writing the message : "hola#9" in its buffer.
+S25 Buffer available, exit waiting.
+S25 READ
+S25 is reading from its buffer "hola#22" and puts it in mens
+S25 Read DATA: hola#22
+S25 CPRINT [cprint, "Nodo sensor", tipo]
+S25 SET ant=valor
+S25 DATA Creation:hola#25
+S25 is writing the message : "hola#25" in its buffer.
+S3 Buffer available, exit waiting.
+S3 READ
+S3 is reading from its buffer "hola#13" and puts it in mens
+S3 Read DATA: hola#13
+S3 CPRINT [cprint, "Nodo sensor", tipo]
+S3 SET ant=valor
+S3 DATA Creation:hola#3
+S3 is writing the message : "hola#3" in its buffer.
+S26 Buffer available, exit waiting.
+S26 READ
+S26 is reading from its buffer "hola#13" and puts it in mens
+S26 Read DATA: hola#13
+S26 CPRINT [cprint, "Nodo sensor", tipo]
+S26 SET ant=valor
+S26 DATA Creation:hola#26
+S26 is writing the message : "hola#26" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 0.032217333333333334
+Min (milliseconds) : 4.799999999999999E-20
+S9 is listening to the channel
+S9 the channel is free.
+S9 starts sending the message : "hola#9".
+S9 has finished sending in a broadcast the message : "hola#9" to the nodes: 
+S3 (radio: radio3) is receiving the message : "hola#9" in its buffer.
+S33 (radio: radio3) is receiving the message : "hola#9" in its buffer.
+S35 (radio: radio3) is receiving the message : "hola#9" in its buffer.
+S28 (radio: radio3) is receiving the message : "hola#9" in its buffer.
+S21 (radio: radio3) is receiving the message : "hola#9" in its buffer.
+S27 (radio: radio3) is receiving the message : "hola#9" in its buffer.
+S29 (radio: radio3) is receiving the message : "hola#9" in its buffer.
+S9 starts delaying for 1000.0 milliseconds
+S3 is listening to the channel
+S3 the channel is free.
+S3 starts sending the message : "hola#3".
+S3 has finished sending in a broadcast the message : "hola#3" to the nodes: 
+S9 (radio: radio3) is receiving the message : "hola#3" in its buffer.
+S33 (radio: radio3) is receiving the message : "hola#3" in its buffer.
+S35 (radio: radio3) is receiving the message : "hola#3" in its buffer.
+S28 (radio: radio3) is receiving the message : "hola#3" in its buffer.
+S21 (radio: radio3) is receiving the message : "hola#3" in its buffer.
+S26 (radio: radio3) is receiving the message : "hola#3" in its buffer.
+S19 (radio: radio3) is receiving the message : "hola#3" in its buffer.
+S27 (radio: radio3) is receiving the message : "hola#3" in its buffer.
+S3 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.032217333333333334
+Min (milliseconds) : 8.000000000000001E-21
+S25 is listening to the channel
+S25 the channel is free.
+S25 starts sending the message : "hola#25".
+S25 has finished sending in a broadcast the message : "hola#25" to the nodes: 
+S35 (radio: radio3) is receiving the message : "hola#25" in its buffer.
+S32 (radio: radio3) is receiving the message : "hola#25" in its buffer.
+S26 (radio: radio3) is receiving the message : "hola#25" in its buffer.
+S19 (radio: radio3) is receiving the message : "hola#25" in its buffer.
+S27 (radio: radio3) is receiving the message : "hola#25" in its buffer.
+S25 starts delaying for 1000.0 milliseconds
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "hola#26".
+S26 has finished sending in a broadcast the message : "hola#26" to the nodes: 
+S25 (radio: radio3) is receiving the message : "hola#26" in its buffer.
+S3 (radio: radio3) is receiving the message : "hola#26" in its buffer.
+S35 (radio: radio3) is receiving the message : "hola#26" in its buffer.
+S19 (radio: radio3) is receiving the message : "hola#26" in its buffer.
+S27 (radio: radio3) is receiving the message : "hola#26" in its buffer.
+S26 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.03333333333333333
+Min (milliseconds) : 0.0011160000000000007
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.043333333333333335
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.04540933333333333
+Min (milliseconds) : 0.002075999999999998
+
+----------------------------------------------------------------------------
+Time : 0.04624266666666667
+Min (milliseconds) : 8.333333333333352E-4
+
+----------------------------------------------------------------------------
+Time : 0.05333333333333334
+Min (milliseconds) : 0.007090666666666667
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.06333333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.07333333333333333
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.08333333333333333
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.09333333333333332
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.10333333333333332
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.11333333333333331
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.12333333333333331
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.1333333333333333
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.1433333333333333
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.15333333333333332
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.16333333333333333
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.17333333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.18333333333333335
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.19333333333333336
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.20333333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.21333333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.22333333333333338
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.2333333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.2433333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.2533333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.2633333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.27333333333333343
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.28333333333333344
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.29333333333333345
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.30333333333333345
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.31333333333333346
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.3233333333333335
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.3333333333333335
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.3433333333333335
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.3533333333333335
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.3633333333333335
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.3733333333333335
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.3833333333333335
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.39333333333333353
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.40333333333333354
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.41333333333333355
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.42333333333333356
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.43333333333333357
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.4433333333333336
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.4533333333333336
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.4633333333333336
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.4733333333333336
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.4833333333333336
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.4933333333333336
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.5033333333333336
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.5133333333333336
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.5233333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.5333333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.5433333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.5533333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.5633333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.5733333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.5833333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.5933333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.6033333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.6133333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.6233333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.6333333333333337
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.6433333333333338
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.6533333333333338
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.6633333333333338
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.6733333333333338
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.6833333333333338
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.6933333333333338
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.7033333333333338
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.7133333333333338
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.7233333333333338
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.7333333333333338
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.7433333333333338
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.7533333333333339
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.7633333333333339
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.7733333333333339
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.7833333333333339
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.7933333333333339
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.8033333333333339
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.8133333333333339
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.8233333333333339
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.8333333333333339
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.8433333333333339
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.8533333333333339
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.863333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.873333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.883333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.893333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.903333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.913333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.923333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.933333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.943333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.953333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.963333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.973333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.9833333333333341
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.9933333333333341
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.003333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.013333333333334
+Min (milliseconds) : 0.01
+S1 has finished waiting.
+
+S1 Starts the loop section.
+S1 READ
+S1 is reading from its buffer "" and puts it in mens
+S1 Read DATA: 
+S1 CPRINT [cprint, "Nodo Base ", tipo]
+S1 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.018192
+Min (milliseconds) : 0.004858666666665932
+S30 has finished the delay.
+S31 has finished the delay.
+S36 has finished the delay.
+S13 has finished the delay.
+S22 has finished the delay.
+S23 has finished the delay.
+S24 has finished the delay.
+S33 has finished the delay.
+S34 has finished the delay.
+S35 has finished the delay.
+S32 has finished the delay.
+S28 has finished the delay.
+S21 has finished the delay.
+S19 has finished the delay.
+S27 has finished the delay.
+S20 has finished the delay.
+S29 has finished the delay.
+S11 has finished the delay.
+
+S30 READ SENSOR: S#45#0.0
+S30 Read DATA: S#45#0.0
+S30 PRINT [print, temp]
+S30 ite = (0.0) + (1.0) -> 1.0
+S30 PRINT [print, ite]
+S30 CPRINT [cprint, "iteee", ite]
+S30 BATTERY.
+S30 Starts the loop section.
+S30 Buffer available, exit waiting.
+S30 READ
+S30 is reading from its buffer "hola#31" and puts it in mens
+S30 Read DATA: hola#31
+S30 CPRINT [cprint, "Nodo sensor", tipo]
+S30 starts delaying for 1000.0 milliseconds
+S31 READ SENSOR: S#43#0.0
+S31 Read DATA: S#43#0.0
+S31 PRINT [print, temp]
+S31 ite = (0.0) + (1.0) -> 1.0
+S31 PRINT [print, ite]
+S31 CPRINT [cprint, "iteee", ite]
+S31 BATTERY.
+S31 Starts the loop section.
+S31 Buffer available, exit waiting.
+S31 READ
+S31 is reading from its buffer "hola#30" and puts it in mens
+S31 Read DATA: hola#30
+S31 CPRINT [cprint, "Nodo sensor", tipo]
+S31 starts delaying for 1000.0 milliseconds
+S36 READ SENSOR: S#87#0.0
+S36 Read DATA: S#87#0.0
+S36 PRINT [print, temp]
+S36 ite = (0.0) + (1.0) -> 1.0
+S36 PRINT [print, ite]
+S36 CPRINT [cprint, "iteee", ite]
+S36 BATTERY.
+S36 Starts the loop section.
+S36 Buffer available, exit waiting.
+S36 READ
+S36 is reading from its buffer "hola#30" and puts it in mens
+S36 Read DATA: hola#30
+S36 CPRINT [cprint, "Nodo sensor", tipo]
+S36 starts delaying for 1000.0 milliseconds
+S13 READ SENSOR: S#18#0.0
+S13 Read DATA: S#18#0.0
+S13 PRINT [print, temp]
+S13 ite = (0.0) + (1.0) -> 1.0
+S13 PRINT [print, ite]
+S13 CPRINT [cprint, "iteee", ite]
+S13 BATTERY.
+S13 Starts the loop section.
+S13 Buffer available, exit waiting.
+S13 READ
+S13 is reading from its buffer "hola#33" and puts it in mens
+S13 Read DATA: hola#33
+S13 CPRINT [cprint, "Nodo sensor", tipo]
+S13 starts delaying for 1000.0 milliseconds
+S22 READ SENSOR: S#53#0.0
+S22 Read DATA: S#53#0.0
+S22 PRINT [print, temp]
+S22 ite = (0.0) + (1.0) -> 1.0
+S22 PRINT [print, ite]
+S22 CPRINT [cprint, "iteee", ite]
+S22 BATTERY.
+S22 Starts the loop section.
+S22 Buffer available, exit waiting.
+S22 READ
+S22 is reading from its buffer "hola#36" and puts it in mens
+S22 Read DATA: hola#36
+S22 CPRINT [cprint, "Nodo sensor", tipo]
+S22 starts delaying for 1000.0 milliseconds
+S23 READ SENSOR: X
+S23 Read DATA: X
+S23 PRINT [print, temp]
+S23 ite = (0.0) + (1.0) -> 1.0
+S23 PRINT [print, ite]
+S23 CPRINT [cprint, "iteee", ite]
+S23 BATTERY.
+S23 Starts the loop section.
+S23 Buffer available, exit waiting.
+S23 READ
+S23 is reading from its buffer "hola#30" and puts it in mens
+S23 Read DATA: hola#30
+S23 CPRINT [cprint, "Nodo sensor", tipo]
+S23 starts delaying for 1000.0 milliseconds
+S24 READ SENSOR: S#52#0.0
+S24 Read DATA: S#52#0.0
+S24 PRINT [print, temp]
+S24 ite = (0.0) + (1.0) -> 1.0
+S24 PRINT [print, ite]
+S24 CPRINT [cprint, "iteee", ite]
+S24 BATTERY.
+S24 Starts the loop section.
+S24 Buffer available, exit waiting.
+S24 READ
+S24 is reading from its buffer "hola#30" and puts it in mens
+S24 Read DATA: hola#30
+S24 CPRINT [cprint, "Nodo sensor", tipo]
+S24 starts delaying for 1000.0 milliseconds
+S33 READ SENSOR: S#38#0.0
+S33 Read DATA: S#38#0.0
+S33 PRINT [print, temp]
+S33 ite = (0.0) + (1.0) -> 1.0
+S33 PRINT [print, ite]
+S33 CPRINT [cprint, "iteee", ite]
+S33 BATTERY.
+S33 Starts the loop section.
+S33 Buffer available, exit waiting.
+S33 READ
+S33 is reading from its buffer "hola#31" and puts it in mens
+S33 Read DATA: hola#31
+S33 CPRINT [cprint, "Nodo sensor", tipo]
+S33 starts delaying for 1000.0 milliseconds
+S34 READ SENSOR: X
+S34 Read DATA: X
+S34 PRINT [print, temp]
+S34 ite = (0.0) + (1.0) -> 1.0
+S34 PRINT [print, ite]
+S34 CPRINT [cprint, "iteee", ite]
+S34 BATTERY.
+S34 Starts the loop section.
+S34 Buffer available, exit waiting.
+S34 READ
+S34 is reading from its buffer "hola#30" and puts it in mens
+S34 Read DATA: hola#30
+S34 CPRINT [cprint, "Nodo sensor", tipo]
+S34 starts delaying for 1000.0 milliseconds
+S35 READ SENSOR: X
+S35 Read DATA: X
+S35 PRINT [print, temp]
+S35 ite = (0.0) + (1.0) -> 1.0
+S35 PRINT [print, ite]
+S35 CPRINT [cprint, "iteee", ite]
+S35 BATTERY.
+S35 Starts the loop section.
+S35 Buffer available, exit waiting.
+S35 READ
+S35 is reading from its buffer "hola#13" and puts it in mens
+S35 Read DATA: hola#13
+S35 CPRINT [cprint, "Nodo sensor", tipo]
+S35 starts delaying for 1000.0 milliseconds
+S32 READ SENSOR: S#103#0.0
+S32 Read DATA: S#103#0.0
+S32 PRINT [print, temp]
+S32 ite = (0.0) + (1.0) -> 1.0
+S32 PRINT [print, ite]
+S32 CPRINT [cprint, "iteee", ite]
+S32 BATTERY.
+S32 Starts the loop section.
+S32 Buffer available, exit waiting.
+S32 READ
+S32 is reading from its buffer "hola#30" and puts it in mens
+S32 Read DATA: hola#30
+S32 CPRINT [cprint, "Nodo sensor", tipo]
+S32 starts delaying for 1000.0 milliseconds
+S28 READ SENSOR: X
+S28 Read DATA: X
+S28 PRINT [print, temp]
+S28 ite = (0.0) + (1.0) -> 1.0
+S28 PRINT [print, ite]
+S28 CPRINT [cprint, "iteee", ite]
+S28 BATTERY.
+S28 Starts the loop section.
+S28 Buffer available, exit waiting.
+S28 READ
+S28 is reading from its buffer "hola#31" and puts it in mens
+S28 Read DATA: hola#31
+S28 CPRINT [cprint, "Nodo sensor", tipo]
