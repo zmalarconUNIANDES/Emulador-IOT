@@ -5,7 +5,7 @@ import paho.mqtt.client as mqtt
 import ssl
 
 # Cambie esta variable por la dirección IP pública de su broker MQTT
-HOST = "107.22.127.124"
+HOST = "34.235.123.91"
 PORT = 8082
 USER = "admin"  # Cambie esta variable por el usuario administrador de su broker MQTT
 PASSWD = "admin1234"  # Cambie esta variable por la contraseña del usuario indicado en USER
